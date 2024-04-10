@@ -1,2 +1,2 @@
 # mi_formulario
-HTML CSS JavaScript
+HTML, CSS, JavaScript
